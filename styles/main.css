@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300;400&display=swap');
+
+
+* {
+    font-family: 'Rubik';
+    text-align: justify;
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: #009ddd !important;
+    font-weight: 400;
+}
+
+a:hover {
+    color:  #386dbd   !important;
+    text-decoration: none;
+}
+
+
+#MainMenu {visibility: hidden;}
+footer{visibility: hidden;}
+header{visibility: hidden;}
