@@ -16,7 +16,7 @@ PAGE_TITLE = "Curriculum Digital | Sergio Valenzuela"
 PAGE_ICON = "📝"
 NAME = "Sergio Valenzuela"
 DESCRIPTION = """
-Ingeniero en Sistemas de Información | Especialista en procesos ETL para análisis de datos
+Ingeniero en Sistemas de Información | Ingeniero de Soporte.
 """
 EMAIL = "contacto@sergiovalenzuela.com.mx"
 
@@ -69,21 +69,24 @@ st.subheader("Experiencia, competencias y habilidades")
 st.write("""
 
 * ✅ +5 años de experiencia en soporte para los siguientes sectores:
-    - ✔ Medios de comunicación
-    - ✔ Tiendas de conveniencia
-    - ✔ Grupos gasolineros.
+    - ◾ Medios de comunicación
+    - ◾ Tiendas de conveniencia
+    - ◾ Grupos gasolineros.
 * ✅ Conocimientos de automatización de reportes usando Python y Excel.
-    - ✔ Librería Pandas.
-    - ✔ Visualización de datos con framework Streamlit. 
+    - ◾ Librería Pandas.
+    - ◾ Visualización de datos con framework Streamlit.
+* ✅ Comunicación efectiva para soporte al cliente.
+    - ◾ Habilitad de comunicación para trato con el usuario.
+    - ◾ Soporte efectivo vía telefónica, correo y/o chat.
 * ✅ Excelente miembro y mentor de equipo.
-    - ✔ Ayuda y soporte efectivo a miembros del equipo de TI.
-    - ✔ Coaching y mentoría para implementar la mejor solución.
+    - ◾ Ayuda y soporte efectivo a miembros del equipo de TI.
+    - ◾ Coaching y mentoría para implementar la mejor solución.
 * ✅ Experiencia en el uso de software para asistencia remota: 
-    - ✔ Anydesk
-    - ✔ TeamViewer
-    - ✔ LogMeIn
+    - ◾ Anydesk
+    - ◾ TeamViewer
+    - ◾ LogMeIn
 * ✅ Manejo de herramientas de tickets como Freshdesk.
-    - ✔ Prioridad a tickets que afecten venta y/o producción.
+    - ◾ Prioridad a tickets que afecten venta y/o producción.
 
 """)
 
