@@ -18,6 +18,7 @@ NAME = "Sergio Valenzuela"
 DESCRIPTION = """
 Ingeniero en Sistemas de Información | Ingeniero de Soporte.
 """
+PHONE_NUMBER = '📱 (662) 479 2634'
 EMAIL = "contacto@sergiovalenzuela.com.mx"
 
 SOCIAL_MEDIA = {
@@ -48,6 +49,7 @@ with col1:
 with col2:
     st.title(NAME)
     st.write(DESCRIPTION)
+    st.write(PHONE_NUMBER)
     st.write("📧", EMAIL)
     st.download_button(label="Descargar curriculum",
                       data=PDFbyte,
