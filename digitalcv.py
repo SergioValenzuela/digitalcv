@@ -133,8 +133,6 @@ st.write("""
 
 * 🥇 Implementación de nuevo sistema volumétrico en 9 estaciones gasolineras.
 
-* 🥇 Dashboard de ventas para estaciones gasolineras.
-
 * 🥇 Proceso ETL para migración de datos de SQL 2014 a SQL 2019 y PostreSQL.
 
 """)
