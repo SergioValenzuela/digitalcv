@@ -78,7 +78,7 @@ st.write("""
     - ◾ Librería Pandas.
     - ◾ Visualización de datos con framework Streamlit.
 * ✅ Comunicación efectiva para soporte al cliente.
-    - ◾ Habilitad de comunicación para trato con el usuario.
+    - ◾ Habilidad de comunicación para trato con el usuario.
     - ◾ Soporte efectivo vía telefónica, correo y/o chat.
 * ✅ Excelente miembro y mentor de equipo.
     - ◾ Ayuda y soporte efectivo a miembros del equipo de TI.
