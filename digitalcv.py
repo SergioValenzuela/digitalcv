@@ -104,9 +104,9 @@ st.write(" - 📅", "07/2019 - actual")
 st.write("""
 
 - ◾   Resuelvo incidencias del área de TI.
-- ◾   Encargado de los reportes diarios que se envían a los diferentes departamentes para que sean analizados.
+- ◾   Encargado de los reportes diarios que se envían a los diferentes departamentos para que sean analizados.
 - ◾   Gestiono las tareas a realizar por medio de tickets para que sean atendidas en tiempo y forma.
-- ◾   Apoyo a compañeros del área de TI en la resolucion de problemas complejos.
+- ◾   Apoyo a miembros del equipo de TI en la resolución de incidencias.
 - ◾   Escalamiento de tickets con las áreas o proveedores correspondientes para su resolución.
 
 """)
