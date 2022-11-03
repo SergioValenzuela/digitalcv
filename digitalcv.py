@@ -103,11 +103,11 @@ st.write(" - 📅", "07/2019 - actual")
 
 st.write("""
 
-- ◾   Soporte técnico vía remota y presencial a usuarios internos.
-- ◾   Windows Server.
-- ◾   Gestión de tareas/tickets para atención de indicencias.
-- ◾   Bases de datos Microsoft SQL Server, MySQL y PostgreSQL.
-- ◾   Análisis y visualización de datos con Python.
+- ◾   Resuelvo incidencias del área de TI.
+- ◾   Encargado de los reportes diarios que se envían a los diferentes departamentes para que sean analizados.
+- ◾   Gestiono las tareas a realizar por medio de tickets para que sean atendidas en tiempo y forma.
+- ◾   Apoyo a compañeros del área de TI en la resolucion de problemas complejos.
+- ◾   Escalamiento de tickets con las áreas o proveedores correspondientes para su resolución.
 
 """)
 
@@ -117,9 +117,9 @@ st.write(" - 📅", "04/2017 - 06/2019")
 
 st.write("""
 
-- ◾ Soporte técnico a usuarios internos.
-- ◾ Administración del servidor.
-- ◾ Consultas a bases de datos Microsoft SQL Server.
+- ◾ Implementé servidor con sistema operativo Windows Server.
+- ◾ Gestioné uso y espacio de almacenamiento del servidor para las diferentes tareas que se realizaban.
+- ◾ Realicé soporte a usuarios internos vía remota y/o presencial.
 
 """)
 
